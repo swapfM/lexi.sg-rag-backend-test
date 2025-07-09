@@ -1,6 +1,9 @@
 # Local RAG Q&A System (FastAPI + Ollama + FAISS)
 
+
 This project is a Retrieval-Augmented Generation (RAG) backend that combines semantic search with a local language model to answer user queries based on custom documents.
+
+ **See It in Action:** [Watch Demo on YouTube](https://youtu.be/cW7QPKiPaaU)
 
 ## Setup Instructions
 
