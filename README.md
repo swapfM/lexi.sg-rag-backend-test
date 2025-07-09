@@ -7,7 +7,7 @@ This project is a Retrieval-Augmented Generation (RAG) backend that combines sem
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/local-rag-api.git
+git clone https://github.com/swapfM/local-rag-api.git
 cd backend/
 ```
 
